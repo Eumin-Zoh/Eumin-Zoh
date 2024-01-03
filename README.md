@@ -10,8 +10,8 @@ After completing a Bachelor's degree at Yonsei University majoring Economics, I 
 
 
 My skillset includes:
-- Languages: Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn), SQL (MySQL), R (ggplot2, dplyr, caret), MATLAB 
-- Software: RStudio, Jupyter, MySQL, Tableau, Power BI, Adobe Analytics, JIRA/Confluence, Excel, PowerPoint
+• Languages: Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow), SQL, R (ggplot2, dplyr, caret), PySpark
+• Software: RStudio, Jupyter, MySQL, Tableau, Power BI, AWS, Snowflake, Adobe Analytics, JIRA/Confluence, Excel, PowerPoint
 
 
 📫 If you would like to chat, please feel free to reach out via email:
